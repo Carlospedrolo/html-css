@@ -1,0 +1,22 @@
+@charset "utf-8";
+
+body {
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+h1  { 
+color: aquamarine;
+}
+
+h2 {
+color:aquamarine;
+background-color: black;
+}
+
+p {
+text-align: justify;
+}   
+
+
+
